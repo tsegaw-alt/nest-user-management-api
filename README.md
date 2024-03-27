@@ -1,6 +1,6 @@
-# Fans-CRM API
+# NestJS User Management API
 
-The Fans-CRM API, developed using the NestJS framework, is a comprehensive solution for user management and authentication. It features JWT-based authentication, Sequelize ORM for database interactions, and a suite of other advanced functionalities.
+NestJS User Management API, developed using the NestJS framework, is a comprehensive solution for user management and authentication. It features JWT-based authentication, Sequelize ORM for database interactions, and a suite of other advanced functionalities.
 
 ## Project Structure Highlights
 
@@ -30,8 +30,8 @@ The Fans-CRM API, developed using the NestJS framework, is a comprehensive solut
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/tsegaw-alt/Fans-CRM-API.git
-   cd fans-crm-api
+   git clone https://github.com/tsegaw-alt/nest-user-management-api.git
+   cd nest-user-management-api
    ```
 
 2. **Install dependencies:**
